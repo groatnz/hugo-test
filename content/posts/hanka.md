@@ -3,13 +3,13 @@ title: "Hanka
 "
 date: 2020-05-24T12:30:52+12:00
 draft: false
+type: person
+tags: 
 Birthdate: 1 Jan 1920
 Place: Rakovnik, Czechoslovakia
+featured_image: http://worldupsidedown.co.nz/images/hanka_pressburg_100x125.jpg 
+theme: Genocide & The Camps
 ---
-
-Birthdate: 1 Jan 1920
-
-Place: Rakovnik, Czechoslovakia
 
 Hanka Svarc was born in Rakovnik near Prague, Czechoslovakia. Her parents owned and operated a retail business, her father having worked his way up from apprentice­ship. Hanka remembers the family as not being particularly religious but they did observe the Jewish holidays and calendar. Relations were good with the non-Jewish locals and at that time in her life as a young woman she did not feel or think of herself as different from her non-Jewish friends because of her religion. After junior school Hanka moved to Prague to study at a secretarial and business college.
 
